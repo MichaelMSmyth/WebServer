@@ -1,0 +1,11 @@
+1 - Create the project folder.
+
+2 - This project will be based on the microservices architecture so the concerns will be seperated by business logic. Within the root project folder create a 'frontend' and a 'backend' folder.
+
+3 - In each of the 'frontend' and 'backend' folders create a 'src' folder.
+
+4 - To set up the backend open the backend folder in the terminal. 
+
+
+Run 'npm init -y' in the terminal to initialise node and create the package.json file
+
